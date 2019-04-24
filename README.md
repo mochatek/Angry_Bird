@@ -12,6 +12,6 @@
 ---
 
 ### Screenshots :
-![screenshot 1](https://github.com/mochatek/Angry_Bird/blob/master/Screenshot.png)
+![screenshot 1](https://github.com/mochatek/Angry_Bird/blob/master/Screenshot.PNG)
 
 **More projects available at :** [https://github.com/mochatek](https://github.com/mochatek)
